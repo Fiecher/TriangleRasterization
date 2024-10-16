@@ -1,0 +1,36 @@
+[33mcommit ae05466b6bb1e72442cfb33764dee25184f1d96c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Fiecher <stepanbelebezev@gmail.com>
+Date:   Wed Oct 16 18:26:24 2024 +0300
+
+    fixed conflicts
+
+[33mcommit ffb56987ad5995f4107237714df0a6a5a95c110d[m
+Merge: 3e14aba 2046e29
+Author: Fiecher <stepanbelebezev@gmail.com>
+Date:   Wed Oct 16 18:22:59 2024 +0300
+
+    Merge branch 'main' of https://github.com/Fiecher/triangleRasterization
+
+[33mcommit 3e14aba97b7871d6253090bcb442ddd15b7bff36[m
+Author: Fiecher <stepanbelebezev@gmail.com>
+Date:   Wed Oct 16 18:21:18 2024 +0300
+
+    Updated gitignore
+
+[33mcommit 2046e299b6743ebe3d3cf95eec026a97f8274c31[m
+Author: Stepan Belebezev <stepanbelebezev@gmail.com>
+Date:   Wed Oct 16 18:16:16 2024 +0300
+
+    Delete .idea directory
+
+[33mcommit 8c56d3d9e0b94cd009975900cff2369733696d8b[m
+Author: Fiecher <stepanbelebezev@gmail.com>
+Date:   Wed Oct 16 16:57:00 2024 +0300
+
+    Initial commit
+
+[33mcommit d91dd55f417da72b460de28a970663c1c41ce2f9[m
+Author: Stepan Belebezev <stepanbelebezev@gmail.com>
+Date:   Wed Oct 16 16:49:44 2024 +0300
+
+    Initial commit
